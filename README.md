@@ -7,3 +7,4 @@ My first attempt at Advent Of Code.
 |[03](day3)|JavaScript|
 |[04](day4)|Python|
 |[05](day05)|Python|
+|[06](dat06)|Python|
